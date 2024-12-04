@@ -3,9 +3,6 @@
 ## Overview
 This project focuses on the design and implementation of a relational database system for **Giella**, a custom cosmetics company. The database supports the company's core business process: online purchase and personalization of cosmetic products. It ensures efficient data management, streamlines operations, and enhances customer experience.
 
-## About Giella
-**Giella** is a New York-based cosmetics company offering personalized makeup products tailored to individual customer preferences and skin types. With its innovative approach, Giella serves a diverse audience through both online and physical stores, focusing on creating a unique customer experience.
-
 ## Objectives
 The main goal of this project was to design and implement a database that:
 - Manages customer data, product inventories, and sales.
